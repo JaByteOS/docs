@@ -1,54 +1,52 @@
-All My Links 
+## Olivia's Index Doc
 
 (**links.jabyte.com** or **bit.ly/jabytelinks**)
 
 _This is an easy to reach “web doc” that links to other docs, sites, services, etc ;)_
 
-# Informational Links, and beneficial data:
+### Informational Links, and beneficial data:
 
-1.  Amazon Lists
-    1.  [Chromebooks](https://www.amazon.com/gp/registry/wishlist/2CETU4OJZLAK/ref=cm_wl_list_o_0?)   
-2.  [Android Apps List](https://drive.google.com/open?id=1S3HTXJP5MyNCqDVp0HzYQgBmUEJkY0NqOeuQsyCSrHM) [android.jabyte.com](http://android.jabyte.com) 
-    1.  [Android Apps (Click here to download)](https://drive.google.com/open?id=0B4I8_El2cMmYaUkyWEtWUWhVZ00) 
-3.  [Brandy Gillmore page](https://drive.google.com/open?id=13pSO25l1WjB98AAq3M6LjIUQrVnh0tqrP1AsTpM--xY) (and [folder](https://mega.nz/#F!5rwzTRDC!N4Aa8H9J4fy08epcnufauA))
-4.  [Chrome and Internet settings](https://docs.google.com/document/d/1hstubcDEOrLsdx-VWW7d-FmQsxNn1Em4WX-hjAKVuAQ/edit?usp=sharing) [chrome.jabyte.com](http://chrome.jabyte.com) 
+1.  [Android Apps List](https://drive.google.com/open?id=1S3HTXJP5MyNCqDVp0HzYQgBmUEJkY0NqOeuQsyCSrHM) [android.jabyte.com](http://android.jabyte.com) 
+    1.  [Android Apps (Click here to download)](https://mega.nz/folder/dywhnQjS#Gkqp7dJ4aJZgZOpXxR0LOA/folder/hip0gKAL) 
+2.  [Brandy Gillmore page](https://drive.google.com/open?id=13pSO25l1WjB98AAq3M6LjIUQrVnh0tqrP1AsTpM--xY) (and [folder](https://mega.nz/#F!5rwzTRDC!N4Aa8H9J4fy08epcnufauA))
+3.  [Chrome and Internet settings](https://docs.google.com/document/d/1hstubcDEOrLsdx-VWW7d-FmQsxNn1Em4WX-hjAKVuAQ/edit?usp=sharing) [chrome.jabyte.com](http://chrome.jabyte.com) 
     1.  [Chromebook model notes and information (primarily for reference)](https://docs.google.com/document/d/1tldiprEzC1NdPKMf0lQqOkjWq2VNuPc0gl2JJrbpEEE/edit?usp=sharing)  
     2.  [Crouton Instructions for SF restore Linux to ChromeOS](https://docs.google.com/document/d/1rQZPLmfpR1OMV6GaBWfOveTrPsfKiMlDYEqhgpLoQUA/edit) [crouton.jabyte.com](http://crouton.jabyte.com) 
-5.  [Chromebook Downloads folder](https://mega.nz/#F!dywhnQjS!Gkqp7dJ4aJZgZOpXxR0LOA!xqxnkaha)  
+4.  [Chromebook Downloads folder](https://mega.nz/#F!dywhnQjS!Gkqp7dJ4aJZgZOpXxR0LOA!xqxnkaha)  
     1.  [ChromeOS Backgrounds folder](https://drive.google.com/drive/folders/0B8IcwTLffRzzeWpELWl2dWdSV28?usp=sharing) 
-6.  [Coding for Kids](https://drive.google.com/open?id=1Q1QE6ABaB8h1rMyPcOHgquNQLbL-UN-mwWUn918rmcE) (and [Folder](https://drive.google.com/drive/u/0/folders/0B4I8_El2cMmYMlg2MDFBVjg2anc), [mirror](https://www.dropbox.com/home/Cloud%20Folder/Coding%20for%20Kids%20(mirror)))  
-7.  [Computer Images](https://drive.google.com/open?id=1IAB7Kun84CqnO_7ZnzfmkugzeL5EIKCpNXslupAm70w) [win.jabyte.com](http://win.jabyte.com)    
+5.  [Coding for Kids](https://drive.google.com/open?id=1Q1QE6ABaB8h1rMyPcOHgquNQLbL-UN-mwWUn918rmcE) (and [Folder](https://drive.google.com/drive/u/0/folders/0B4I8_El2cMmYMlg2MDFBVjg2anc), [mirror](https://www.dropbox.com/home/Cloud%20Folder/Coding%20for%20Kids%20(mirror)))  
+6.  [Computer Images](https://drive.google.com/open?id=1IAB7Kun84CqnO_7ZnzfmkugzeL5EIKCpNXslupAm70w) [win.jabyte.com](http://win.jabyte.com)    
     1.  [OS setup checklist / reference](http://drive.google.com/open?id=1NVln66LrOCHPsaQIggIAol1jzyoNlFilRoLAFaGLaMw)   
-8.  Cool text generators:
+7.  Cool text generators:
     1.  [maketext.io - Cool Texts Generator (SVG/PNG)  30+Effects x 800+Fonts](https://maketext.io/)
     2.  [Logo Design and Name Generator](https://flamingtext.com/)
     3.  [Cool Text Graphics Generator](https://cooltext.com/)
-9.  [Crostini (Linux on ChromeOS) notes](https://drive.google.com/open?id=13HiO--XuBoe8hUdhekGL4-c-t01HYlCBpTdTCfl7yiA)  
-10.  [Dental fillings removal detox](https://drive.google.com/open?id=1mEpzPemya_xw7A1bPlNPeiWlL3zY8MDkQu5O7DscqpI)  
-11.  [Esperanto on Duolingo](https://docs.google.com/document/d/16jRXqllZU9dsm0cmj301uMxrq90YMj58X81PmvGV8Tk/edit) [esperanto.jabyte.com](http://esperanto.jabyte.com) 
-12.  [Epstein-Barr Virus by Anthony William (Medical Medium)](https://docs.google.com/document/d/1x9wBukTsmW1GWKFRVAlBhQZjdtCXE0NAoH0pQwsR4j0/edit#heading=h.4lhwkppypdpa) 
-13.  [Falun Dafa / Gong](https://drive.google.com/open?id=1RX4miVaKYZ8sp7QNxSKGfRgrems5HPQDRXLCueSWc9Q) 
-14.  [Linux Mint (Ubuntu) notes](https://docs.google.com/document/d/1aTUYeHZ6WYa6S17f5_XTCT3d5mrDAvFMDQid6T_zHqA/edit?usp=docslist_api) [linux.jabyte.com](http://linux.jabyte.com) 
-15.  Lode Runner [Mad Monks' Rewrite](http://www.quarkrobot.com/) ([bugs](https://docs.google.com/document/d/1ednzhPUBDqpH6c-VJYKNyBzgMxjDoP-d-xI5As7ADrg/edit?usp=sharing))   patches: ([16.05.27 patch](https://quarkrobot.blob.core.windows.net/downloads/LODERUNN-LINUX-160527.zip))  
+8.  [Crostini (Linux on ChromeOS) notes](https://drive.google.com/open?id=13HiO--XuBoe8hUdhekGL4-c-t01HYlCBpTdTCfl7yiA)  
+9.  [Dental fillings removal detox](https://drive.google.com/open?id=1mEpzPemya_xw7A1bPlNPeiWlL3zY8MDkQu5O7DscqpI)  
+10.  [Esperanto on Duolingo](https://docs.google.com/document/d/16jRXqllZU9dsm0cmj301uMxrq90YMj58X81PmvGV8Tk/edit) [esperanto.jabyte.com](http://esperanto.jabyte.com) 
+11.  [Epstein-Barr Virus by Anthony William (Medical Medium)](https://docs.google.com/document/d/1x9wBukTsmW1GWKFRVAlBhQZjdtCXE0NAoH0pQwsR4j0/edit#heading=h.4lhwkppypdpa) 
+12.  [Falun Dafa / Gong](https://drive.google.com/open?id=1RX4miVaKYZ8sp7QNxSKGfRgrems5HPQDRXLCueSWc9Q) 
+13.  [Linux Mint (Ubuntu) notes](https://docs.google.com/document/d/1aTUYeHZ6WYa6S17f5_XTCT3d5mrDAvFMDQid6T_zHqA/edit?usp=docslist_api) [linux.jabyte.com](http://linux.jabyte.com) 
+14.  Lode Runner [Mad Monks' Rewrite](http://www.quarkrobot.com/) ([bugs](https://docs.google.com/document/d/1ednzhPUBDqpH6c-VJYKNyBzgMxjDoP-d-xI5As7ADrg/edit?usp=sharing))   patches: ([16.05.27 patch](https://quarkrobot.blob.core.windows.net/downloads/LODERUNN-LINUX-160527.zip))  
     1.  New [1Adventure Episodes (17.09.13) and newer](https://mega.nz/#F!dywhnQjS!Gkqp7dJ4aJZgZOpXxR0LOA!AiR12YgY) 
     2.  Original [1Adventure episodes 1 & 2 (Level sets) and other levels ;)](https://www.dropbox.com/sh/siomab33c9uew0u/AAAYgrpstP9lz_TQ8Zc5ZeOKa?dl=0)   
-16.  [Notes / Outlines](https://drive.google.com/open?id=0B4I8_El2cMmYWHZ2WXFYVWg5NGs) [outlines.jabyte.com](http://outlines.jabyte.com) 
-17.  [Mac OS X notes](https://docs.google.com/document/d/1bdFOrz3sGZEGtAibUd584hXVzGoU7ZtYlo6kQREjsOY/edit?usp=sharing) mac.jabyte.com 
-18.  [MegaCloud](https://mega.nz/#F!cAUFwI7Q!bvmNh0_B0HdXT9ajAj4TvA) [cloud.jabyte.com](http://cloud.jabyte.com) (new Cloud for Images and ISO and large files)
-19.  [MegaUtils](https://mega.nz/#F!dywhnQjS!Gkqp7dJ4aJZgZOpXxR0LOA) [utils.jabyte.com](http://utils.jabyte.com) (new Utils/Cloud Folder)
+15.  [Notes / Outlines](https://drive.google.com/open?id=0B4I8_El2cMmYWHZ2WXFYVWg5NGs) [outlines.jabyte.com](http://outlines.jabyte.com) 
+16.  [Mac OS X notes](https://docs.google.com/document/d/1bdFOrz3sGZEGtAibUd584hXVzGoU7ZtYlo6kQREjsOY/edit?usp=sharing) mac.jabyte.com 
+17.  [MegaCloud](https://mega.nz/#F!cAUFwI7Q!bvmNh0_B0HdXT9ajAj4TvA) [cloud.jabyte.com](http://cloud.jabyte.com) (new Cloud for Images and ISO and large files)
+18.  [MegaUtils](https://mega.nz/#F!dywhnQjS!Gkqp7dJ4aJZgZOpXxR0LOA) [utils.jabyte.com](http://utils.jabyte.com) (new Utils/Cloud Folder)
     1.  [Old Dropbox “Cloud Folder” here](https://www.dropbox.com/sh/ilrxlvw4o5w0sds/AABfwzwlhYSBO_kVNa01S6yIa?dl=0) (Archived **Dec-2018**)
         1.  [Upload a file to Folder (**Public**)](https://www.dropbox.com/request/VsT77ZeTidnVgG1RUaX0) [upload.jabyte.com](http://upload.jabyte.com) 
         2.  [Upload a file to **Private** Folder (only Jared can see)](https://www.dropbox.com/request/dq4jOvwX1V9URGTk7rde)   
     2.  Old [Utils](https://drive.google.com/open?id=0B4I8_El2cMmYUXNmb2hoWVNWRDg) (Google Drive) (Archived **Dec-2018**)
     3.  [Oldest Dropbox utils is here](https://www.dropbox.com/sh/y8xpynvubr32gm1/AACFWHR7KFP_jegg-aA8Q5yca?dl=0) (Archived **2015**)
-20.  [Office folder](https://www.dropbox.com/sh/wjfddczruqo5mb9/AABHHiGpcS83BoasstUL4aA9a?dl=0) 
-21.  [Privacy-focused cloud options](https://drive.google.com/open?id=1JKuQAqsBk8wfNNWfbHNtFs7_3gWwhjurrIqKyHO6RdQ) 
-22.  [PutLocker Movies](https://www7.putlockertv.to/) (formerly [SolarMoviez](https://www2.solarmoviex.to/))
-23.  [Resolutions and Aspect Ratios](https://drive.google.com/open?id=1ZjbNBXGnK96vGJghuSIugJg79MYz1P8e9Ytpcaxmeqg) 
-24.  [Secure Password System](http://drive.google.com/open?id=1yNJncAOE3Bfm---0xW0t-ifxgc43-dc5mLSUNoBsLkM) 
-25.  [Tablet / Chromebook benefits](https://docs.google.com/document/d/10t6i2Tq8ezti5MAV4-8p50-8lr1wSz108W61FUUkVLs/edit?usp=sharing) 
-26.  [Torrent Search Engines / Indexers](https://drive.google.com/open?id=1EhCCAlQp6llb2pdVsVZnOu9HhCxLt_xQUO3gI2NXHXQ)  
-27.  [Whole foods, plant based, oil free](https://drive.google.com/open?id=13W0U8sCDKTAqVPSvrHq_E48g0EH3jLsslf9tFw8SCX0) 
+19.  [Office folder](https://www.dropbox.com/sh/wjfddczruqo5mb9/AABHHiGpcS83BoasstUL4aA9a?dl=0) 
+20.  [Privacy-focused cloud options](https://drive.google.com/open?id=1JKuQAqsBk8wfNNWfbHNtFs7_3gWwhjurrIqKyHO6RdQ) 
+21.  [PutLocker Movies](https://www7.putlockertv.to/) (formerly [SolarMoviez](https://www2.solarmoviex.to/))
+22.  [Resolutions and Aspect Ratios](https://drive.google.com/open?id=1ZjbNBXGnK96vGJghuSIugJg79MYz1P8e9Ytpcaxmeqg) 
+23.  [Secure Password System](http://drive.google.com/open?id=1yNJncAOE3Bfm---0xW0t-ifxgc43-dc5mLSUNoBsLkM) 
+24.  [Tablet / Chromebook benefits](https://docs.google.com/document/d/10t6i2Tq8ezti5MAV4-8p50-8lr1wSz108W61FUUkVLs/edit?usp=sharing) 
+25.  [Torrent Search Engines / Indexers](https://drive.google.com/open?id=1EhCCAlQp6llb2pdVsVZnOu9HhCxLt_xQUO3gI2NXHXQ)  
+26.  [Whole foods, plant based, oil free](https://drive.google.com/open?id=13W0U8sCDKTAqVPSvrHq_E48g0EH3jLsslf9tFw8SCX0) 
 
 # Personal Links and addresses:
 
